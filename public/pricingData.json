@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "duration": "Monthly",
+    "info": "Good for beginners who want simple gym access.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free WiFi",
+      "Open gym hours",
+      "Access to cardio machines",
+      "Basic fitness guidance",
+      "Clean shower facilities"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 40,
+    "duration": "Monthly",
+    "info": "Perfect for regular members who want extra facilities.",
+    "features": [
+      "All Basic features",
+      "Group fitness classes",
+      "1 personal training session per month",
+      "Access to cardio zone",
+      "Strength training area",
+      "Body composition check",
+      "Workout plan for beginners",
+      "Member support desk"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 70,
+    "duration": "Monthly",
+    "info": "Best for serious fitness lovers who want full gym services.",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Sauna and steam room",
+      "Nutrition consultation",
+      "Custom workout program",
+      "Priority class booking",
+      "Recovery and stretching area",
+      "Advanced fitness tracking"
+    ]
+  }
+]
