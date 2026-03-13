@@ -18,6 +18,7 @@
   {
     "id": 2,
     "name": "Standard",
+    "popular": true,
     "price": 40,
     "duration": "Monthly",
     "info": "Perfect for regular members who want extra facilities.",
@@ -28,8 +29,8 @@
       "Access to cardio zone",
       "Strength training area",
       "Body composition check",
-      "Workout plan for beginners",
-      "Member support desk"
+      "Workout plan for beginners"
+      
     ]
   },
   {
@@ -45,8 +46,8 @@
       "Nutrition consultation",
       "Custom workout program",
       "Priority class booking",
-      "Recovery and stretching area",
-      "Advanced fitness tracking"
+      "Recovery and stretching area"
+      
     ]
   }
 ]
